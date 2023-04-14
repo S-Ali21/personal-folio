@@ -1249,6 +1249,10 @@ h5 {
     text-align: center;
 }
 
+.more-btn .social-icon {
+    border: 2px solid #ffffff; 
+}
+
 .fot_social .social-icon:hover {
     border-color: #000;
     color: #FFF !important;
